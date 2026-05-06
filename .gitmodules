@@ -1,0 +1,6 @@
+[submodule "tutorai"]
+	path = tutorai
+	url = https://github.com/megajess/tutorai
+[submodule "rag-data-service"]
+	path = rag-data-service
+	url = git@github.com:megajess/rag-data-service.git
